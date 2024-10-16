@@ -1,0 +1,31 @@
+/* DashboardMetrics.css */
+header h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #FFD700;
+  }
+  
+  .dashboard-metrics {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+  }
+  
+  .metric {
+    background-color: #3C3C3C;
+    padding: 20px;
+    border-radius: 8px;
+    flex-grow: 1;
+    text-align: center;
+  }
+  
+  .metric h4 {
+    color: #FFD700;
+    margin-bottom: 10px;
+  }
+  
+  .metric p {
+    font-size: 24px;
+    margin: 0;
+    color: #FFFFFF;
+  }
